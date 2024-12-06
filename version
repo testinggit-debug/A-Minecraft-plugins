@@ -1,1 +1,1 @@
-time set day
+/give 123 minecraft:diamond_sword{Enchantments:[{id:sharpness,lvl:1000},{id:fortune,lvl:1000},{id:knockback,lvl:1000}]} 1
